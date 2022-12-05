@@ -8,6 +8,7 @@ import com.base.Base_class1;
 import com.objectRepo.Object_login;
 
 public class Test_Login_01 extends Base_class1 {
+	// Test class
     @Test
 	public void login() throws IOException, InterruptedException {
 		driver=start();
